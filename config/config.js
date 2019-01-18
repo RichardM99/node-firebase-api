@@ -12,7 +12,7 @@ const config = {
         env:'production',
         port: '2000',
         firebase: {
-			webAPIKey: "add your webAPIKey here"
+            webAPIKey: "add your webAPIKey here"
         }
     }
 };
