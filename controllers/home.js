@@ -16,4 +16,3 @@ const home = (router) => {
 const _get = (request, response) => response.json({message: 'Home'});
 
 module.exports = home;
-
