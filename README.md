@@ -135,7 +135,7 @@ To run the tests use ```npm test```
 
 **Note** 
 
-In the ```test/user.js``` test file you will see this function
+In the ```test/users.js``` test file you will see this function
 
 ```javascript
 _exchangeCustomTokenForIdToken
