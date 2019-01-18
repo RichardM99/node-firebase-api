@@ -65,7 +65,7 @@ you can do so [here](https://firebase.google.com/)
 
 5. Start the server with ```npm start```
 
-6. Visit ```http://localhost:2000/api/home``` in your browser to see if the server is up and running.
+6. Visit ```localhost:2000/api/home``` in your browser to see if the server is up and running.
 You should get a simple JSON response of 
 
 ```javascript
@@ -82,7 +82,7 @@ Request body -
 
 ```javascript
 {
-	"email": "email@email.com"
+	"email": "email@email.com",
 	"password":"password" 
 }
 ```
@@ -118,7 +118,7 @@ Request body -
 ```javascript
 {
 	"id": "1",
-	"email": "newemail@email.com"
+	"email": "newemail@email.com",
 	"password":"newpassword" 
 }
 ```
