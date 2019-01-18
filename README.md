@@ -83,7 +83,7 @@ Request body -
 ```javascript
 {
 	"email": "email@email.com",
-	"password":"password" 
+	"password": "password" 
 }
 ```
 
@@ -119,7 +119,7 @@ Request body -
 {
 	"id": "1",
 	"email": "newemail@email.com",
-	"password":"newpassword" 
+	"password": "newpassword" 
 }
 ```
 
