@@ -1,5 +1,8 @@
 # Node Firebase API
 
+## Note
+I do not maintain this repository and as such it is likely that the dependencies listed in `package.json` need to be updated.
+
 ## Overview
 A lightweight node API which demonstrates how you can integrate firebase
 authentication with a database.
