@@ -11,7 +11,7 @@
   "author": "Richard Moran",
   "dependencies": {
     "body-parser": "^1.17.2",
-    "express": "^4.15.4",
+    "express": "^4.17.3",
     "firebase-admin": "6.0.0",
     "glob": "^7.1.2",
     "helmet": "^3.8.1",
